@@ -1,4 +1,4 @@
-# Basketball Offense Optimization
+# NBA VISUALIZER TOOLKI
 
 ## Project Overview
 This project aims to optimize basketball offense by developing an extensive toolkit for coaches, players, and administrators. It focuses on analyzing basketball games and offensive schemes to enhance team performance and strategy formulation.

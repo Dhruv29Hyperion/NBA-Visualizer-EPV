@@ -1,6 +1,8 @@
 # NBA VISUALIZER TOOLKIT
 
-https://github.com/Dhruv29Hyperion/NBA-Visualizer-EPV/assets/114672846/e68ab4e2-6c60-4f02-a052-1998f4e4d229
+
+https://github.com/Dhruv29Hyperion/NBA-Visualizer-EPV/assets/114672846/fe3f1173-ab03-4bd5-8996-b4afffdd41b1
+
 
 
 ## Project Overview
